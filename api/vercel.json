@@ -1,12 +1,12 @@
 {
   "functions": {
-    "api/sync.js": {
+    "api/hello.ts": {
       "runtime": "nodejs18.x"
     }
   },
   "crons": [
     {
-      "path": "/api/sync",
+      "path": "/api/hello",
       "schedule": "*/15 * * * *"
     }
   ]
