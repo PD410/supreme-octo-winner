@@ -4,3 +4,8 @@
   "type": "module",
   "dependencies": {}
 }
+{
+  "dependencies": {
+    "jose": "^5.2.0"
+  }
+}
